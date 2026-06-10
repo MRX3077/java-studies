@@ -1,8 +1,19 @@
+# VS Code
+.vscode/
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
+
+# Build
+target/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
 
 # BlueJ files
 *.ctxt
