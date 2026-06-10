@@ -1,0 +1,11 @@
+package fase_1_fundamentos_da_linguagem.modulo_3_estruturas_de_decisao_if_else_switch_case;
+
+public class Main_1 {
+    public static void main(String[] args){
+        boolean isRaining = true;
+
+        if(isRaining){
+            System.out.println("Pegue seu guarda chuvas");
+        }
+    }
+}
